@@ -19,6 +19,6 @@ Te saluda Argenis Ramírez, Desarrollador Web Front-End ubicado en <strong>Zulia
 
 ## Ultimas estadísticas del repositorio:
 
-![Argenis GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezdevlp&show_icons=true&theme=dark)
+![Argenis GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezdevlp&show_icons=true&theme=grubvox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezdevlp&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezdevlp&layout=compact&theme=grubvox)
