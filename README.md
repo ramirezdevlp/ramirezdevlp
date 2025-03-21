@@ -39,5 +39,3 @@ Te saluda Argenis Ramírez, Desarrollador Web Front-End ubicado en <strong>Zulia
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/argenisramirezdg)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/user/daniel-ramirez-700/)
 
----
-<p style="text-align:center;"><strong>Encantado de trabajar contigo en tu próximo proyecto.</strong><br>Deja tu mensaje y empecemos.</br></p>
