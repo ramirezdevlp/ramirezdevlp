@@ -29,3 +29,10 @@ Te saluda Argenis Ramírez, Desarrollador Web Front-End ubicado en <strong>Zulia
 ### Fijados
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ramirezdevlp&repo=Matefacil&show_owner&theme=dark)](https://github.com/ramirezdevlp/Matefacil)
+
+## 📱Puedes encontrarme en:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/daniramirezrm)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/argenisramirezdg/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/argenis-ramirez-4a2a5723b/)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/argenisramirezdg)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/argenisramirezdg)
