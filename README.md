@@ -26,7 +26,7 @@ Te saluda Argenis Ramírez, Desarrollador Web Front-End ubicado en <strong>Zulia
 ![Argenis GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezdevlp&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezdevlp&layout=compact&theme=onedark)
 
-### Fijados
+### 📌Fijados
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ramirezdevlp&repo=Matefacil&show_owner&theme=dark)](https://github.com/ramirezdevlp/Matefacil)
 
@@ -38,3 +38,6 @@ Te saluda Argenis Ramírez, Desarrollador Web Front-End ubicado en <strong>Zulia
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/argenisramirezdg)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/argenisramirezdg)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/user/daniel-ramirez-700/)
+
+---
+<p style="text-align:center;"><strong>Encantado de trabajar contigo en tu próximo proyecto.</strong><br> Deja tu mensaje y empecemos.</p>
