@@ -28,4 +28,4 @@ Te saluda Argenis Ramírez, Desarrollador Web Front-End ubicado en <strong>Zulia
 
 ### Fijados
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ramirezdevlp&show_owner)](https://github.com/ramirezdevlp/Matefacil)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ramirezdevlp&repo=Matefacil&show_owner)](https://github.com/ramirezdevlp/Matefacil)
